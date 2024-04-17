@@ -19,7 +19,7 @@ The project aimed to identify primary risk factors associated with obesity throu
 ### Dataset Description
   1.	The dataset presents estimations of obesity prevalence among individuals aged 14 to 61 from Mexico, Peru, and Colombia, reflecting diverse dietary patterns and physical statuses. 
   2.	These estimations were derived from a web-based survey, yielding a dataset comprising 17 attributes and 2111 records. 
-  3.	The dataset comprises numeric and continuous data suitable for epidemiological analyses, including classification, prediction, segmentation, and association studies. 
+  3.	The dataset comprises numeric and continuous data suitable for epidemiological analyses, including classification, prediction, segmentation, and association studies.
   4.	Notably, no instances of missing or duplicate data were identified across the dataset columns.
 
 ### Attributes:
@@ -51,10 +51,31 @@ The project aimed to identify primary risk factors associated with obesity throu
     5.	Obesity II: 35.0 to 39.9
     6.	Obesity III: Higher than 40
 
-### Exploratory Data Analysis and Findings
-  1.	After cleaning the data, completing data exploration, and conducting descriptive statistics, we reclassified the "Weight classification" column and subset the "obesity" category to conduct the analysis. 
-  2.	Key findings will be summarized in a write-up, highlighting significant relationships between variables and obesity rates. 
-  3.	Visualizations will be provided to illustrate these relationships effectively.
+### Exploratory Data Analysis
+After cleaning the data, completing data exploration, and conducting descriptive statistics, we reclassified the "Weight classification" column and subset the "obesity" category to conduct the analysis.
+
+1.	Gender
+2.	Age
+3.	Height(m)
+4.	Weight(kg)
+5.	Fhx of Overweight
+6.	Freq High Calorie Cons
+7.	Freq vegetable cons
+8.	Number of Main Meals
+9.	Eating inbetween meals
+10.	Hx of smoking
+11.	Water consumption
+12.	Calorie Consumption Monitoring
+13.	Freq of Physical Activity
+14.	Time spent on Tech devices
+15.	Alcohol consumption
+16.	Transportation used
+17.	Weight group
+18.	BMI
+19.	Weight classification
+
+Key findings will be summarized in a write-up, highlighting significant relationships between variables and obesity rates. 
+Visualizations will be provided to illustrate these relationships effectively.
 
 ### Dataset Sources
 1.	Fabio Mendoza Palechor, and Alexis de la Hoz Manotas. (2023). Obesity or CVD risk (Classify/Regressor/Cluster) [Data set]. Kaggle.https://doi.org/10.34740/KAGGLE/DSV/7009925”.
