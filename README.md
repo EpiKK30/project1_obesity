@@ -10,6 +10,7 @@ This repository contains materials for the Obesity Project conducted by our team
   3.	Andrea Nimako
   4.	Lynda Sempele
   5.	Kevin Ngala
+
 ### Research Questions
 The project aimed to identify primary risk factors associated with obesity through the analysis of available datasets, focusing on the following research questions:
   1.	What is the association between dietary habits and the risk of obesity?
@@ -22,8 +23,7 @@ The project aimed to identify primary risk factors associated with obesity throu
   3.	The dataset comprises numeric and continuous data suitable for epidemiological analyses, including classification, prediction, segmentation, and association studies.
   4.	Notably, no instances of missing or duplicate data were identified across the dataset columns.
 
-### Attributes:
-  #### Eating Habits:
+  #### The attributes related with "Eating Habits" are:
     1.	Frequent consumption of high-caloric food (FAVC)
     2.	Frequency of consumption of vegetables (FCVC)
     3.	Number of main meals (NCP)
@@ -31,7 +31,7 @@ The project aimed to identify primary risk factors associated with obesity throu
     5.	Consumption of water daily (CH20)
     6.	Consumption of alcohol (CALC)
 
-  #### Physical Condition:
+  #### The attributes related with "Physical Condition" are:
     1.	Calories consumption monitoring (SCC)
     2.	Physical activity frequency (FAF)
     3.	Time using technology devices (TUE)
@@ -53,7 +53,7 @@ The project aimed to identify primary risk factors associated with obesity throu
 
 ### Exploratory Data Analysis
 After cleaning the data, completing data exploration, and conducting descriptive statistics, we reclassified the "Weight classification" column and subset the "obesity" category to conduct the analysis.
-
+### Attributes 
 1.	Gender
 2.	Age
 3.	Height(m)
