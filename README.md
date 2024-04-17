@@ -37,7 +37,7 @@ The project aimed to identify primary risk factors associated with obesity throu
     3.	Time using technology devices (TUE)
     4.	Transportation used (MTRANS)
 
-  #### Other Variables:
+  #### Independent Variables:
     1.	Gender
     2.	Age
     3.	Height
