@@ -3,13 +3,13 @@
 ### Project Overview
 
 This repository contains materials for the Obesity Project conducted by our team on April 14, 2024. Our project aims to explore primary risk factors associated with obesity by analyzing available datasets. We examine demographic, dietary, and lifestyle factors to inform preventive interventions and health policy.
+
 ### Team Members
   1.	Kavita Lakhani
   2.	Monique Reid
   3.	Andrea Nimako
   4.	Lynda Sempele
   5.	Kevin Ngala
-
 ### Research Questions
 The project aimed to identify primary risk factors associated with obesity through the analysis of available datasets, focusing on the following research questions:
   1.	What is the association between dietary habits and the risk of obesity?
@@ -23,33 +23,33 @@ The project aimed to identify primary risk factors associated with obesity throu
   4.	Notably, no instances of missing or duplicate data were identified across the dataset columns.
 
 ### Attributes:
-#### Eating Habits:
-  1.	Frequent consumption of high-caloric food (FAVC)
-  2.	Frequency of consumption of vegetables (FCVC)
-  3.	Number of main meals (NCP)
-  4.	Consumption of food between meals (CAEC)
-  5.	Consumption of water daily (CH20)
-  6.	Consumption of alcohol (CALC)
+  #### Eating Habits:
+    1.	Frequent consumption of high-caloric food (FAVC)
+    2.	Frequency of consumption of vegetables (FCVC)
+    3.	Number of main meals (NCP)
+    4.	Consumption of food between meals (CAEC)
+    5.	Consumption of water daily (CH20)
+    6.	Consumption of alcohol (CALC)
 
-#### Physical Condition:
-  1.	Calories consumption monitoring (SCC)
-  2.	Physical activity frequency (FAF)
-  3.	Time using technology devices (TUE)
-  4.	Transportation used (MTRANS)
+  #### Physical Condition:
+    1.	Calories consumption monitoring (SCC)
+    2.	Physical activity frequency (FAF)
+    3.	Time using technology devices (TUE)
+    4.	Transportation used (MTRANS)
 
-#### Other Variables:
-  1.	Gender
-  2.	Age
-  3.	Height
-  4.	Weight
+  #### Other Variables:
+    1.	Gender
+    2.	Age
+    3.	Height
+    4.	Weight
 
-#### Obesity Levels:
-  1.	Underweight: Less than 18.5
-  2.	Normal: 18.5 to 24.9
-  3.	Overweight: 25.0 to 29.9
-  4.	Obesity I: 30.0 to 34.9
-  5.	Obesity II: 35.0 to 39.9
-  6.	Obesity III: Higher than 40
+  #### Obesity Levels:
+    1.	Underweight: Less than 18.5
+    2.	Normal: 18.5 to 24.9
+    3.	Overweight: 25.0 to 29.9
+    4.	Obesity I: 30.0 to 34.9
+    5.	Obesity II: 35.0 to 39.9
+    6.	Obesity III: Higher than 40
 
 ### Exploratory Data Analysis and Findings
   1.	After cleaning the data, completing data exploration, and conducting descriptive statistics, we reclassified the "Weight classification" column and subset the "obesity" category to conduct the analysis. 
