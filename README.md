@@ -53,7 +53,7 @@ The project aimed to identify primary risk factors associated with obesity throu
 
 ### Exploratory Data Analysis
 After cleaning the data, completing data exploration, and conducting descriptive statistics, we reclassified the "Weight classification" column and subset the "obesity" category to conduct the analysis.
-### Attributes 
+### Attributes For Project Data Analysis
 1.	Gender
 2.	Age
 3.	Height(m)
